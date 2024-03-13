@@ -1,0 +1,15 @@
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\bin\Debug\SistemaAcademicoPagos.exe.config
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\bin\Debug\SistemaAcademicoPagos.exe
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\bin\Debug\SistemaAcademicoPagos.pdb
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.csproj.AssemblyReference.cache
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.exe
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.pdb
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.EstiloBase.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Controls.AcTextBox.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Forms.Login.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Forms.Inicio.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Forms.Pagos.resources
+C:\Users\Alejandro\OneDrive\Escritorio\Acxyz\Proyectos\SistemaAcademicoPagos\SistemaAcademicoPagos\SistemaAcademicoPagos\obj\Debug\SistemaAcademicoPagos.Forms.Inscripciones.resources
